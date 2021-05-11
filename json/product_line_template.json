@@ -1,0 +1,15 @@
+[
+	{
+		"MinAllowed": "20",
+		"Factors": [
+			{
+				"Risk Factor": "Credit Score",
+				"Weighting": "70"
+			},
+			{
+				"Risk Factor": "Years With Bank",
+				"Weighting": "6"
+			}
+		]
+	}
+]
